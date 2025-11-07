@@ -6,4 +6,8 @@ En un pequeño pueblo rodeado de montañas y ríos cristalinos, la vida transcur
  main
  desarrollo
 Pero ese pueblo a su vez era muy peligroso por los ladrones y le gente pobre que no tenia trabajo
+<<<<<<< HEAD
+Pero debido a un meteorito todos murieron y despues de 10 años ese pueblo era totalmente diferente
+=======
 
+>>>>>>> 50efd9b6bb8c400222d18706add23ac4460a457d
